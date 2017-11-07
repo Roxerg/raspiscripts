@@ -1,0 +1,5 @@
+snappy - screencaps
+fb-messenger-cli
+feh - for wallpapers
+xcompmgr - for transparency
+cmatrix - for the lulz
