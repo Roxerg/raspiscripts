@@ -4,3 +4,8 @@ feh - for wallpapers
 xcompmgr - for transparency
 cmatrix - for the lulz
 xev - event tester
+
+
+commands:
+
+amixer -D pulse sset Master mute/unmute/1%+/1%-/20%
